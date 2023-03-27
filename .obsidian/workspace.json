@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59702bd299e30429",
+        "id": "6f66bf34af0e84f8",
         "type": "tabs",
         "children": [
           {
-            "id": "8774103c5c7a106b",
+            "id": "c9d6baafebf57886",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/2023-03-21.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Images/simple_equation.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-21.md",
+                "file": "Notes/Images/simple_equation.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-21.md",
+                "file": "Notes/Images/simple_equation.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +123,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-21.md"
+                "file": "Notes/Images/simple_equation.png"
               }
             }
+          },
+          {
+            "id": "4b09f68b5dedb0a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,30 +154,32 @@
   },
   "active": "ebf9b88fe85e65a5",
   "lastOpenFiles": [
-    "dl_lab/lab_1/lab1.ipynb",
-    "dl_lab/lab_1/Lecture_1_Introduction_to_Deep_Learning.ipynb",
-    "dl_lab/lab_1",
-    "dl_lab",
-    "Notes/Images/receptive_field.png",
-    "Notes/Images/convolution.png",
+    "Notes/Images/pixels_lp_2.png",
+    "Notes/Images/over_under_fitting.png",
+    "Notes/Images/composition_of_derivatives.png",
+    "Notes/Images/nabla_stuff.png",
+    "Notes/Images/xor_perceptrons.png",
+    "Notes/Images/digits.png",
+    "Notes/Images/pixels_lp.png",
+    "Notes/Images/nand.png",
+    "Notes/Images/line_example.png",
+    "Notes/Images/simple_equation.png",
+    "Notes/Images/perceptron_formula.png",
+    "Notes/2023-03-08 - Backpropagation.md",
+    "Untitled.canvas",
+    "Notes/2023-03-21.md",
+    "Lab/lab_1/lab1.ipynb",
+    "Lab/lab_1/Lecture_1_Introduction_to_Deep_Learning.ipynb",
+    "Lab/lab_1",
+    "Lab",
     "README.md",
     "Notes/2023-02-22.md",
     "Notes/2023-02-21 - First lesson.md",
     "Notes/2023-03-01.md",
     "Notes/2023-02-28.md",
     "Notes/2023-03-07.md",
-    "Notes/2023-03-08 - Backpropagation.md",
     "Notes/2023-03-14.md",
     "Notes/2023-03-15.md",
-    "Notes/2023-03-21.md",
-    "Notes/Images/pooling.png",
-    "Notes/Images/example_cnn.png",
-    "Notes/Images/layer_configuration_params.png",
-    "Notes/Images/overfitting.png",
-    "Screenshot_20230314_094510.png",
-    "Screenshot_20230308_151954.png",
-    "Notes/Images/momentum.png",
-    "Notes/Images/online_vs_batch_learning.png",
     "Untitled 1.md",
     "Untitled.md"
   ]

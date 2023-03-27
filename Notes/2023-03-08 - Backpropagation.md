@@ -18,7 +18,7 @@ $$
 h'(x) = f'(g(x)) * g'(x) = f'(y) * g'(x) = \dfrac{df}{dy} * \dfrac{dg}{dx}
 $$
 Given a multivariable function f (x, y) and two single variable functions x(t) and y(t)
-![[Screenshot_20230308_151954.png]]
+![[composition_of_derivatives.png]]
 In vector notation: let ...
 
 $a^l = σ(b^l+ w^l · x^l )$
