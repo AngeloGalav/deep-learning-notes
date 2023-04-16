@@ -1,7 +1,7 @@
 ---
 TODOs:
 - fill holes in the vector notation part
-- 
+- rewatch whole lesson
 ---
 
 The backpropagation algorithm is simply the _instantiation of the gradient descent_ technique to the _case of neural networks_. Specifically, it provides iterative rules to compute partial derivatives of the loss function with respect to each parameter of the network. In the following, we shall discuss it in the case of dense networks and shall hint to extensions to convolutional networks and recurrent networks at proper places.
