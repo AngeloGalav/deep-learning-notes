@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-21 (x).md",
+                "file": "Notes/2023-03-28 - (x).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-03-21 (x).md",
+                "file": "Notes/2023-03-28 - (x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-03-21 (x).md",
+                "file": "Notes/2023-03-28 - (x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-03-21 (x).md"
+                "file": "Notes/2023-03-28 - (x).md"
               }
             }
           },
@@ -157,14 +157,20 @@
   },
   "active": "c9d6baafebf57886",
   "lastOpenFiles": [
-    "Notes/2023-03-28 (x).md",
-    "Notes/2023-03-29 - (x).md",
-    "Notes/2023-04-12 - (x).md",
-    "Notes/2023-04-05 - (x).md",
+    "residual_example.png",
     "Notes/2023-04-04 - (x).md",
-    "Notes/2023-03-21 (x).md",
+    "Notes/2023-03-28 - (x).md",
+    "Notes/2023-03-29 - (x).md",
+    "Notes/2023-03-21 - CNN 2, Inception Layers.md",
     "Notes/2023-03-15 - Convolutional Neural Networks.md",
     "Notes/2023-03-14 - Overfitting, some activation functions, and cross-entropy.md",
+    "inception_hypotesis.png",
+    "Notes/Images/3d_CNN.png",
+    "Notes/Images/inception_module.png",
+    "VGG.png",
+    "Notes/Images/alexnet.png",
+    "Notes/2023-04-12 - (x).md",
+    "Notes/2023-04-05 - (x).md",
     "Notes/Images/cross_entropy_log_likelihood.png",
     "Notes/Images/result_cnn_1.png",
     "Notes/Images/finite_central_example.png",
@@ -175,11 +181,6 @@
     "Notes/2023-02-22 - Intro 2.md",
     "Notes/Images/x-entropy.png",
     "Notes/Images/residual_learning.png",
-    "Notes/Images/dkl.png",
-    "Notes/Images/convolution_matrix.png",
-    "Notes/Images/comparing_lossess.png",
-    "Notes/Images/what_we_expect.png",
-    "Notes/Images/transfer_learning_cnns.png",
     "README.md",
     "Digests",
     "Lab/Digests",
