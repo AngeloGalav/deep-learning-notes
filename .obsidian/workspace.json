@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Notes/Images/segmentation_example_2.png"
+                "file": "Notes/Images/VAE_final_picture.png"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023-03-21 - CNN 2, Inception Layers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"feature map\"",
+                "query": "log-like",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "45b6e2c0cfc54316",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Images/segmentation_example_2.png",
+                "file": "Notes/Images/VAE_final_picture.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Images/segmentation_example_2.png",
+                "file": "Notes/Images/VAE_final_picture.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Images/segmentation_example_2.png"
+                "file": "Notes/Images/VAE_final_picture.png"
               }
             }
           },
@@ -174,39 +174,39 @@
   },
   "active": "ebf9b88fe85e65a5",
   "lastOpenFiles": [
-    "Notes/Images/classification_loss.png",
+    "Notes/2023-04-19 - (x) Generative Models 2.md",
+    "Notes/2023-04-18 - Generative models 1.md",
+    "Notes/Images/VAE_final_picture.png",
+    "Notes/Images/vae_latent.png",
+    "Notes/Images/vae4.png",
+    "Notes/Images/vae3.png",
+    "Notes/Images/vae2.png",
+    "README.md",
+    "Notes/Images/diffusion_models.png",
+    "Notes/2023-03-01 (x) - Expresiveness of models.md",
+    "Notes/2023-03-07 (x) - Gradient Descent.md",
+    "Notes/2023-03-08 (x) - Backpropagation.md",
+    "Notes/2023-03-14 - Overfitting, some activation functions, and cross-entropy.md",
+    "Notes/Images/GAN_example.png",
+    "Notes/Images/normalizing_flows.png",
     "Notes/2023-04-12 - Object detection.md",
-    "Notes/Images/different_feature_maps.png",
-    "Notes/Images/image_pyramid3.png",
-    "Notes/Images/image_pyramid2.png",
-    "Notes/Images/image_pyramid1.png",
-    "Notes/Images/final_loss.png",
-    "Notes/Images/localization_loss.png",
-    "Notes/Images/yolo_feature_map.png",
-    "Notes/2023-03-28 - ResNet, Tranfer Learning.md",
-    "Notes/2023-03-21 - CNN 2, Inception Layers.md",
-    "Notes/Images/yolo.png",
-    "Notes/Images/intersection_over_union.png",
     "Notes/2023-04-05 - (x) Segmentation and Convolutionalization.md",
     "Notes/2023-04-04 - The data manifold & autoencoders.md",
+    "Notes/2023-03-21 - CNN 2, Inception Layers.md",
+    "Notes/Images/VAE.png",
+    "Notes/Images/latent_space_encoding.png",
+    "Notes/2023-03-28 - ResNet, Tranfer Learning.md",
+    "Notes/2023-05-10.md",
+    "Notes/2023-05-09 - (x).md",
+    "Notes/2023-05-03 - (x).md",
+    "Notes/2023-05-02 - (x).md",
     "Notes/2023-03-29 - Gradient Ascent.md",
     "Notes/2023-03-15 - Convolutional Neural Networks.md",
-    "Notes/2023-03-14 - Overfitting, some activation functions, and cross-entropy.md",
-    "Notes/2023-05-10.md",
-    "Notes/2023-05-09.md",
-    "Notes/2023-05-03.md",
-    "Notes/2023-05-02.md",
     "Notes/2023-04-26 - (x).md",
-    "Notes/2023-04-19 (x).md",
-    "Notes/2023-04-18 (x).md",
-    "Notes/2023-03-07 (x) - Gradient Descent.md",
-    "Notes/2023-03-01 (x) - Expresiveness of models.md",
-    "Notes/2023-03-08 (x) - Backpropagation.md",
     "Notes/Images/convolution_matrix_mod.png~",
     "Exam-project",
     "Notes/2023-02-28 - DL applications.md",
     "Notes/2023-02-22 - Intro 2.md",
-    "README.md",
     "Digests",
     "Lab/Digests",
     "Notes/2023-02-21 - First lesson.md",

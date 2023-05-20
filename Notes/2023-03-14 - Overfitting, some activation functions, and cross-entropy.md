@@ -170,14 +170,14 @@ We assume that all the data that is in the training set are _independent from ea
 The likelihood, then, is:
 $L = \prod_{i \in \text{DATA}} L_i = \prod_{i \in \text{DATA}} Q(y = y_i|x=x_i)$
 
-We can prove that \[1\]:
+We can prove that ==\[1\]==:
 $Q(y=y_i | x = x_i) = Q(y=k_1|x=x_i)^{P(y=k_1|x=x_i)} \cdot Q(y=k_2|x=x_i)^{P(y=k_2|x=x_i)}$
 
 Let's examine the case in which $y_i = k_1$:
-- In this case, P = 1  in the first part and P = 0 in the second term of the multiplication. So, the final result is $Q(y=y_i | x = x_i) = Q(y=k_1|x=x_i)$
+- In this case, $P = 1$  in the first part and $P = 0$ in the second term of the multiplication. So, the final result is $Q(y=y_i | x = x_i) = Q(y=k_1|x=x_i)$
 Same thing if $y_i = k_2$.
 
-Let's compute the whole logarithm of the expression \[1\].
+Let's compute the whole logarithm of the expression ==\[1\]==.
 We'll get:
 $$
 P(y=k_1|x=x_i)\cdot log(Q(y=k_1|x=x_i)) +  P(y=k_2|x=x_i)\cdot log(Q(y=k_2|x=x_i))$$
