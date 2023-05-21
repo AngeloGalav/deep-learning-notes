@@ -3,7 +3,6 @@
 ## What is this?
 This repository contains all the material that I've used to study for the Deep Learning course in the MSc in AI @ UniBo (2022/2023).
 It contains a series of complete and comprehensive notes on DL.  
-In the near future, this repository will contain some solutions to the exercises in the previous exams, as well as code templates to use during the exam.   
 
 I believe that the material in here __can be very useful to anyone__, not just students of this course. 
 
@@ -24,11 +23,15 @@ To read this properly inside Obsidian, you'll need to import this repository as 
 I think this notes are best read on a laptop or tablet, directly using the Obsidian app.     
 
 ## Tasks
-- [x] Write all notes
-- [x] Render notes in PDF
-- [x] Add Lab solutions
-- [x] Add solutions to (some) past exams
-- [x] Add templates
+- [ ] Write all notes
+	- [ ] Finish lesson on Segmentation
+	- [ ] Revise notes on the SGD lesson 
+	- [ ] Finish lesson on Backpropagation
+	- [ ] Add lesson 21 (kinda useless)
+- [ ] Render notes in PDF
+- [ ] Add Lab notebooks
+- [ ] Add solutions to (some) past exams
+- [ ] Add digests
 
 ## How can I contribute?
 You can open a PR to:

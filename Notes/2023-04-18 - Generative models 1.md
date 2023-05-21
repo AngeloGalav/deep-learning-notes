@@ -96,7 +96,7 @@ The network is trained by _maximizing log-likelihood_.
 
 ## Diffusion Models 
 In Diffusion Models, the _latent space_ is understood as _a strongly noised version of the image_ to be generated. The generator is split into a long chain of denoising steps, where each step $t$ _attempts to remove Gaussian noise_ with a given variance $σ_t$ .
-![[diffusion_models.png]]
+![[Notes/Images/diffusion_models.png]]
 We train a single network implementing the denoising operation, parametric in $σ_t$.
 
 This method uses _Reverse Diffusion_, where Diffusion is a technique which essentially aims to add and distribute noise to an image. 
