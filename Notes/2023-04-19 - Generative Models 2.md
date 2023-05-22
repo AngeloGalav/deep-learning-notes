@@ -3,6 +3,7 @@ As we know, in a GAN, we want to train a generator, and then, we want to generat
 We then have a discriminator network, which  will output 0 or 1 accordingly. 
 ![[GAN.png]]
 
+#### GAN's loss function
 From a mathematical standpoint, we could see this process as a MinMax game:
 ![[minmax_GAN.png]]
 The loss functoin has 2 parts:
