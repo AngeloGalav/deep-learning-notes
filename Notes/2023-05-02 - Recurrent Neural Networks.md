@@ -95,6 +95,6 @@ The output gate decides what parts of the cell state to output. The $tanh$ funct
 They were used for NLP until the birth of transformers.
 
 
-Asperti then did a long ass demo.
+Asperti then did a long ass demo. You can find the demo [here](https://virtuale.unibo.it/pluginfile.php/1623565/mod_resource/content/1/carry_over.ipynb).
 
 -----

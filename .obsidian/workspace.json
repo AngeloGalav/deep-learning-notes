@@ -11,11 +11,9 @@
             "id": "85f88b22494173dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/2023-05-03 - (x) Attention & Transformers.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Images/res_conn.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Collapse\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023-05-03 - (x) Attention & Transformers.md",
+                "file": "Notes/Images/res_conn.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023-05-03 - (x) Attention & Transformers.md",
+                "file": "Notes/Images/res_conn.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023-05-03 - (x) Attention & Transformers.md"
+                "file": "Notes/Images/res_conn.png"
               }
             }
           },
@@ -162,45 +160,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85f88b22494173dc",
+  "active": "ebf9b88fe85e65a5",
   "lastOpenFiles": [
-    "Notes/2023-05-09 - (x) Reinforcement Learning.md",
-    "Notes/2023-05-03 - (x) Attention & Transformers.md",
+    "Notes/Images/alignment.png",
+    "Notes/2023-05-03 - Attention & Transformers.md",
+    "Notes/Images/barcode_gpt.png",
+    "Notes/Images/res_conn.png",
+    "Notes/Images/transf_multi_head.png",
+    "Notes/Images/key_value_att.png",
+    "Notes/Images/encoder_decoder.png",
+    "Notes/Images/encoders_decoders.png",
+    "Notes/Images/producing_attetion_maps.png",
+    "Notes/Images/se_inception.png",
+    "Notes/Images/gating_map.png",
     "Notes/2023-05-02 - Recurrent Neural Networks.md",
-    "cline_gate.png",
-    "output_gate.png",
-    "cell_update.png",
-    "update_gate.png",
-    "ok_forget_me_too.png",
-    "lstm_arch.png",
-    "RNN_yo.png",
-    "lstm1.png",
-    "memoryless.png",
-    "Screenshot_20230521_175800.png.md",
-    "Notes/Images/RNN_2.png",
     "Notes/2023-04-26 - Conditional Generation.md",
     "Notes/2023-04-19 - Generative Models 2.md",
-    "Notes/2023-04-18 - Generative models 1.md",
-    "README.md",
-    "Notes/2023-05-10 - (x).md",
-    "Notes/2023-03-07 (x) - Gradient Descent.md",
-    "Notes/2023-03-08 (x) - Backpropagation.md",
-    "Notes/2023-03-01 (x) - Expresiveness of models.md",
-    "Notes/2023-03-14 - Overfitting, some activation functions, and cross-entropy.md",
-    "Notes/2023-04-12 - Object detection.md",
     "Notes/2023-04-05 - (x) Segmentation and Convolutionalization.md",
     "Notes/2023-04-04 - The data manifold & autoencoders.md",
-    "Notes/2023-03-21 - CNN 2, Inception Layers.md",
-    "Notes/2023-03-28 - ResNet, Tranfer Learning.md",
     "Notes/2023-03-29 - Gradient Ascent.md",
+    "Notes/2023-03-21 - CNN 2, Inception Layers.md",
     "Notes/2023-03-15 - Convolutional Neural Networks.md",
-    "Notes/Images/convolution_matrix_mod.png~",
-    "Exam-project",
+    "Notes/2023-03-14 - Overfitting, some activation functions, and cross-entropy.md",
+    "Notes/2023-03-08 (x) - Backpropagation.md",
+    "Notes/2023-03-07 (x) - Gradient Descent.md",
+    "Notes/2023-03-01 (x) - Expresiveness of models.md",
     "Notes/2023-02-28 - DL applications.md",
     "Notes/2023-02-22 - Intro 2.md",
+    "Notes/2023-02-21 - First lesson.md",
+    "Notes/2023-04-12 - Object detection.md",
+    "README.md",
+    "Notes/2023-05-09 - (x) Reinforcement Learning.md",
+    "Screenshot_20230521_175800.png.md",
+    "Notes/2023-04-18 - Generative models 1.md",
+    "Notes/2023-05-10 - (x).md",
+    "Notes/2023-03-28 - ResNet, Tranfer Learning.md",
+    "Notes/Images/convolution_matrix_mod.png~",
+    "Exam-project",
     "Digests",
     "Lab/Digests",
-    "Notes/2023-02-21 - First lesson.md",
     "Untitled.canvas",
     "Lab/lab_1/lab1.ipynb",
     "Lab/lab_1/Lecture_1_Introduction_to_Deep_Learning.ipynb",
