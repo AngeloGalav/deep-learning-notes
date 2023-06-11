@@ -1,6 +1,6 @@
 # Notes and exercises on Deep Learning        
 
-> :warning: **This repo of notes is unfinished!!**: it is missing 2/3 lessons that will be made available asap! Otherwise, """"enjoy"""" this material! 
+> :warning: **This repo of notes is unfinished!!**: it is missing 2/3 lessons! Otherwise, """"enjoy"""" this material! 
 
 ## What is this?
 This repository contains all the material that I've used to study for the Deep Learning course in the MSc in AI @ UniBo (2022/2023).
@@ -10,7 +10,6 @@ I believe that the material in here __can be very useful to anyone__, not just s
 
 ### Why would I read this?
 The notes in here are taken lesson by lesson, and are basically a _transcript_ of everything the professor has said during the course.
-I firmly believe that the notes in here can be used as a way to __fully study__ this course. 
 
 There are many features that may ease the process of learning this topics, such as:
 - Syntax highlighting for important words and concepts.
@@ -24,19 +23,19 @@ All the notes are written in __Obsidian Markdown__, and can be found in the `Not
 To read this properly inside Obsidian, you'll need to import this repository as a vault, which is pretty easy to do.
 Personally, I think this notes are best read on a laptop or tablet, directly using the Obsidian app.     
 
+### Regarding the exam...
+I suggest you to read just the stuff that's "important" for the task that the professor assigns to you. Don't waste too much time on reading this, unless of course you want a brief view of the main DL strategies. 
+
 ## Tasks
 - [ ] Write all notes
 	- [ ] Finish lesson on Segmentation
 	- [ ] Revise notes on the SGD lesson 
 	- [ ] Finish lesson on Backpropagation
-	- [ ] Finish lesson 03/05
 	- [ ] Finish lesson 09/05
 	- [ ] Finish lesson 10/05
 	- [ ] Add lesson 21 (16/05) (kinda useless)
 - [ ] Render notes in PDF
-- [ ] Add Lab notebooks
 - [ ] Add solutions to (some) past exams
-- [ ] Add digests
 
 ## How can I contribute?
 You can open a PR to:
