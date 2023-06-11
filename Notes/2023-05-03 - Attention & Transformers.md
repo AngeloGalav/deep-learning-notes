@@ -39,6 +39,13 @@ $$
 In many applications, _values_ are also used _as keys_ (__self-attention__).
 ![[key_value_att.png]]
 
+From Tensorflow official explanation:
+An attention layer does a fuzzy lookup like this, but it's not just looking for the best key. _It combines_ the `values` based _on how well the_ `query` matches each `key`.
+
+How does that work? In an attention layer the `query`, `key`, and `value` are each vectors. Instead of doing a hash lookup the attention layer combines the `query` and `key` vectors to determine how well they match, the "__attention score__". The layer returns _the average across all the_ `values`, _weighted_ by the "attention scores".
+
+Each location the query-sequence provides a `query` vector. The context sequence acts as the dictionary. At each location in the context sequence provides a `key` and `value` vector. The input vectors are not used directly, the [`layers.MultiHeadAttention`](https://www.tensorflow.org/addons/api_docs/python/tfa/layers/MultiHeadAttention) layer includes [`layers.Dense`](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense) layers to project the input vectors before using the
+
 #### Score function
 Different score functions lead to different attention layers. Two commonly used approaches are: 
 - __Dot product__:
@@ -72,7 +79,7 @@ The __encoding component__ is a stack of _encoders_. Similarly, the __decoding c
 ![[encoders_decoders.png]]
 
 #### Structure of encoder and decoder modules 
-- The __encoder__ is organized as a _self-attention layer_ (query, key and value are shared), followed by _feedfoward component_ (a couple of dense layers). 
+- The __encoder__ is organized as a ___self-attention__ layer_ (query, key and value are shared), followed by _feedfoward component_ (a couple of dense layers). 
 	- Each output is obtain as a weighted combination of the input. 
 - The __decoder__ is _similar_, with _an additional attention layer_ that helps the decoder to _focus on relevant parts_ of the input sentence (meaning, according to the information passed on by the decoder).
 ![[encoder_decoder.png]]

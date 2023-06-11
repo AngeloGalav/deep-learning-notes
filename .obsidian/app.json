@@ -3,5 +3,6 @@
   "spellcheckDictionary": [
     "autoenconder",
     "auto-enconder"
-  ]
+  ],
+  "promptDelete": false
 }
